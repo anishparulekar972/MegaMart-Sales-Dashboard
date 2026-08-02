@@ -28,7 +28,8 @@ The workbook showcases data cleaning, data transformation, business calculations
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard-overview.png)
+![Executive Dashboard](Images/Dashboard.png)
+![Dashboard Charts](Images/Dashboard2.png)
 
 ## Skills Demonstrated
 
